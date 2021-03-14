@@ -16,7 +16,7 @@ terminal-border: "0"
 # Show the boot menu
 + boot_menu {
   left = 70%
-  top = 40%
+  top = 35%
   width = 10%
   height = 70%
   item_font = "Dersu Uzala brush Regular 30"
@@ -34,7 +34,7 @@ terminal-border: "0"
 # Show a countdown message using the label component
 + label {
   top = 82%
-  left = 65%
+  left = 60%
   width = 30%
   align = "center"
   id = "__timeout__"
