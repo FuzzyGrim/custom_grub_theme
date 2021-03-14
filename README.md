@@ -1,1 +1,1 @@
-<img src='https://github.com/FuzzyGrim/dotfiles/blob/master/image.png'>
+<img src='https://github.com/FuzzyGrim/custom_grub_theme/blob/master/image.png'>
