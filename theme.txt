@@ -34,7 +34,7 @@ terminal-border: "0"
 # Show a countdown message using the label component
 + label {
   top = 82%
-  left = 60%
+  left = 64%
   width = 30%
   align = "center"
   id = "__timeout__"
